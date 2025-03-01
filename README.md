@@ -1,2 +1,2 @@
 # MIT-6.092
-My learning materials about Basic Java.
+My learning materials and assignments about Basic Java.
