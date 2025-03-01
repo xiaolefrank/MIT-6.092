@@ -3,4 +3,4 @@ My learning materials and assignments about Basic Java.
 
 To do list:
 
-- [ ] implement the column and dignoal judgement in Assignment7.
+- [ ] implement the column and diagonal judgement in Assignment7.
